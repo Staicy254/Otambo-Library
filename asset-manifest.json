@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Staicy254/Otambo-Library.git/static/css/main.8e78b2d8.css",
+    "main.js": "/Staicy254/Otambo-Library.git/static/js/main.062fdbc8.js",
+    "static/js/453.49ac508b.chunk.js": "/Staicy254/Otambo-Library.git/static/js/453.49ac508b.chunk.js",
+    "static/media/about-pic.jpg": "/Staicy254/Otambo-Library.git/static/media/about-pic.f980003392e7f20637aa.jpg",
+    "static/media/hero-pic.jpg": "/Staicy254/Otambo-Library.git/static/media/hero-pic.f14a7aa99dbfa8e4a282.jpg",
+    "index.html": "/Staicy254/Otambo-Library.git/index.html",
+    "main.8e78b2d8.css.map": "/Staicy254/Otambo-Library.git/static/css/main.8e78b2d8.css.map",
+    "main.062fdbc8.js.map": "/Staicy254/Otambo-Library.git/static/js/main.062fdbc8.js.map",
+    "453.49ac508b.chunk.js.map": "/Staicy254/Otambo-Library.git/static/js/453.49ac508b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e78b2d8.css",
+    "static/js/main.062fdbc8.js"
+  ]
+}
