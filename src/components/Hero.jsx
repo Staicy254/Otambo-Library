@@ -29,7 +29,7 @@ const Hero = () => {
           Connect with me
         </a>
         <a 
-          href="https://drive.google.com/file/d/16W9T-TT2ZeD5Vjdo9x4zVzJ47uQ-yO6s/view?usp=sharing" 
+          href="https://drive.google.com/file/d/1IVCw_At934d8SiMlOx6GDZSo9Z1AqxCR/view?usp=sharing" 
           target="_blank" 
           rel="noopener noreferrer"
           className='bg-gradient-to-r from-blue-500 to-yellow-500 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'

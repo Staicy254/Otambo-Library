@@ -4,7 +4,10 @@ const projects = [
   {
     id: 1,
     title: "ProsperMinds Live",
+    goal: "To implememnt a learning management system that will help children learn coding, entrepreneurship & AI",
     description: "An Online Learning Management system.",
+    role: "Full Stack Developer",
+    tech: "HTML5,CSS3,React,PHP",
     url: "https://www.prospermindslive.com",
   },
   {
@@ -17,8 +20,21 @@ const projects = [
     id: 3,
     title: "Dayax Water Company",
     description: "An informational website for a Somali water company.",
+    tech: "wordpress",
     url: "http://www.dayaxwater.so/",
   },
+  {
+    id: 4,
+    title: "Crescent Shop",
+    description: "an e-commerce website for shopping accessories, shoes and clothes",
+    url: "yet to be uploaded - still building ",
+  },
+  {
+    id: 5,
+    title: "Foundation-shade-match",
+    description: "A site that works to match foundation shades to your specific complexion",
+    url: "https://github.com/Staicy254/Foundation-match"
+  }
 ];
 
 const Projects = () => {
