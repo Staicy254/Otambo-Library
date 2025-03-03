@@ -4,7 +4,7 @@ const projects = [
   {
     id: 1,
     title: "ProsperMinds Live",
-    goal: "To implememnt a learning management system that will help children learn coding, entrepreneurship & AI",
+    goal: "To implement a learning management system that will help children learn coding, entrepreneurship, & AI",
     description: "An Online Learning Management system.",
     role: "Full Stack Developer",
     tech: "HTML5,CSS3,React,PHP",
@@ -25,12 +25,6 @@ const projects = [
   },
   {
     id: 4,
-    title: "Crescent Shop",
-    description: "an e-commerce website for shopping accessories, shoes and clothes",
-    url: "yet to be uploaded - still building ",
-  },
-  {
-    id: 5,
     title: "Foundation-shade-match",
     description: "A site that works to match foundation shades to your specific complexion",
     url: "https://github.com/Staicy254/Foundation-match"
