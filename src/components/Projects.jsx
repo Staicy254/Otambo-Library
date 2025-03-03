@@ -12,9 +12,9 @@ const projects = [
   },
   {
     id: 2,
-    title: "Zendawa Mobile App",
-    description: "A mobile app for ordering medicine and products.",
-    url: "https://play.google.com/store/apps/details?id=africa.zendawa.app.zendawa",
+    title: "Zendawa Website",
+    description: "A website for ordering medicine and products.",
+    url: "https://staicy254.github.io/Zendawa_Africa/",
   },
   {
     id: 3,
