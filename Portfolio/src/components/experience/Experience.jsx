@@ -17,7 +17,7 @@ export default function Experience() {
           <h1 className='title-font sm:text-4xl text-3xl mb-4 font-medium text-orange-500'>Experience</h1>
           
           <h2 className='title-font font-bold text-white sm:text-2xl'>Software Engineer | IT Manager</h2>
-          <p className='text-white'>ProsperMinds Limited • Nairobi, Kenya (03/2022 - 02/2025)</p>
+          <p className='text-white'>ProsperMinds Limited • Nairobi, Kenya </p>
           <ul className='mb-8 text-white list-disc pl-5'>
             <li>Engineered and launched an online LMS.</li>
             <li>Collaborated with clients to gather requirements and deliver custom web solutions.</li>
@@ -27,27 +27,27 @@ export default function Experience() {
           </ul>
           
           <h2 className='title-font font-bold text-white sm:text-2xl'>Full-Stack Developer Intern</h2>
-          <p className='text-white'>Zendawa Africa • Nairobi, Kenya (04/2024 - 07/2024)</p>
+          <p className='text-white'>Zendawa Africa • Nairobi, Kenya </p>
           <ul className='mb-8 text-white list-disc pl-5'>
             <li>Developed and maintained the Zendawa web app and website.</li>
             <li>Used Google Analytics to track user interactions, improving bounce rate by 15%.</li>
           </ul>
           
           <h2 className='title-font font-bold text-white sm:text-2xl'>Web Developer Intern</h2>
-          <p className='text-white'>Oasis Infobyte • New Delhi, India (02/2024 - 03/2024)</p>
+          <p className='text-white'>Oasis Infobyte • New Delhi, India </p>
           <ul className='mb-8 text-white list-disc pl-5'>
             <li>Created various projects using HTML, CSS, and JavaScript.</li>
             <li>Implemented SEO techniques, improving website visibility by 20%.</li>
           </ul>
           
           <h2 className='title-font font-bold text-white sm:text-2xl'>Freelance Web Developer</h2>
-          <p className='text-white'>Upwork • Nairobi, Kenya (01/2023 - 01/2024)</p>
+          <p className='text-white'>Upwork • Nairobi, Kenya </p>
           <ul className='mb-8 text-white list-disc pl-5'>
             <li>Developed and deployed websites for various clients.</li>
           </ul>
           
           <h2 className='title-font font-bold text-white sm:text-2xl'>IT Technician</h2>
-          <p className='text-white'>Pivot Networks • Nairobi, Kenya (06/2023 - 12/2023)</p>
+          <p className='text-white'>Pivot Networks • Nairobi, Kenya </p>
           <ul className='mb-8 text-white list-disc pl-5'>
             <li>Managed hardware and software inventory for company servers, laptops, and mobile devices.</li>
             <li>Maintained an up-to-date security alert database for all company sites and servers.</li>
