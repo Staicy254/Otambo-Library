@@ -7,6 +7,7 @@ import image2 from '../../assets/image2.png'
 import image3 from '../../assets/image3.png'
 import image4 from '../../assets/image4.png'
 import image5 from '../../assets/image5.png'
+import image6 from '../../assets/image6.png'
 
 export default function Projects() {
     const listProjects = [
@@ -15,6 +16,7 @@ export default function Projects() {
         {id:3, image:image3, title:'Zendawa Africa - E-commerce Store', description:'An e-commerce store for African products.', link:'https://staicy254.github.io/Zendawa_Africa/'},
         {id:4, image:image4, title:'Tukicode - Online registeration platform', description:'A Program selling site.', link:'https://stupendous-cues-553172.framer.app/'},
         {id:5, image:image5, title:'Cucus Eatery - Restaurant Menu', description:'A restaurant menu.', link:'https://staicy254.github.io/Cucu-s_Eatery/'},
+        {id:6, image:image6, title:'Wattpad 3D- Simple 3D Page', description:'A 3D informational site', link:'https://minimal-menu-333967.framer.app/'},
     ];
     
     const settings = {
