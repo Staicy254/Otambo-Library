@@ -12,11 +12,11 @@ import image6 from '../../assets/image6.png'
 export default function Projects() {
     const listProjects = [
         {id:1, image:image, title:'ProsperMinds Limited - Online LMS', description:'An online Learning Management System.', link:'https://prospermindslive.com/'},
-        {id:2, image:image2, title:'Dukani Kwetu - E-commerce store', description:'An e-commerce store for facial products', link:'https://thriving-environment-962406.framer.app/'},
+        {id:2, image:image2, title:'Tukicode - Learner Registretaion', description:'A learner registeration platform', link:'https://best-root-282036.framer.app/'},
         {id:3, image:image3, title:'Zendawa Africa - E-commerce Store', description:'An e-commerce store for African products.', link:'https://staicy254.github.io/Zendawa_Africa/'},
         {id:4, image:image4, title:'Clario - Eye wear Shop', description:'A shop selling various eyewear.', link:'https://diligent-architecture-358933.framer.app/'},
         {id:5, image:image5, title:'Cucus Eatery - Restaurant Menu', description:'A restaurant menu.', link:'https://staicy254.github.io/Cucu-s_Eatery/'},
-        {id:6, image:image6, title:'Wattpad 3D- Simple 3D Page', description:'A 3D informational site', link:'https://minimal-menu-333967.framer.app/'},
+        {id:6, image:image6, title:'Elana Noire - Perfumes and scents', description:'A Perfume shop site', link:'https://strong-card-389332.framer.app/'},
     ];
     
     const settings = {
