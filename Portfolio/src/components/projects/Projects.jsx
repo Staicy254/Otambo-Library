@@ -7,12 +7,11 @@ import image2 from '../../assets/image2.png'
 import image3 from '../../assets/image3.png'
 import image4 from '../../assets/image4.png'
 import image5 from '../../assets/image5.png'
-
+import image6 from '../../assets/image6.png'
 
 export default function Projects() {
     const listProjects = [
         {id:1, image:image, title:'ProsperMinds Limited - Online LMS', description:'An online Learning Management System.', link:'https://prospermindslive.com/'},
-        {id:2, image:image2, title:'Travel Nami - Travel Site', description:'An online Travel Site.'},
         {id:3, image:image3, title:'Zendawa Africa - E-commerce Store', description:'An e-commerce store for African products.', link:'https://staicy254.github.io/Zendawa_Africa/'},
         {id:4, image:image4, title:'Clario - Eye wear Shop', description:'A shop selling various eyewear.', link:'https://diligent-architecture-358933.framer.app/'},
         {id:5, image:image5, title:'Cucus Eatery - Restaurant Menu', description:'A restaurant menu.', link:'https://staicy254.github.io/Cucu-s_Eatery/'},
