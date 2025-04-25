@@ -8,9 +8,8 @@ import figma from '../../assets/figma.png'
 import github from '../../assets/github.png'
 import node from '../../assets/node.png'
 import postgresql from '../../assets/postgresql.png'
-import solidity from '../../assets/Solidity.webp'
 import typescript from '../../assets/typescript.png'
-import web3 from '../../assets/web3.png'
+
 
 export default function Skills() {
   return (
@@ -23,8 +22,8 @@ export default function Skills() {
                 <h1 data-aos='fade-right' data-aos-delay='500' className='sm:text-4xl text-2xl font-medium title-font mb-2 text-white '>Skills</h1>
                 <p data-aos='fade-right' data-aos-delay='500' className='leading-relaxed text-base'>
                 I excel in building responsive, user-focused
-solutions using HTML5, CSS3, JavaScript, Firebase, TypeScript, React, React Native, PostgreSQL, Vue.js, Node.js, Next.js,
-APIs, Solidity, and Web3.js.
+solutions using HTML5, CSS3, JavaScript, Firebase, TypeScript, React,PostgreSQL, Vue.js, Node.js, Next.js, and,
+APIs.
                 </p>
             </div>
             <div data-aos='fade-left' data-aos-delay='500' className='flex flex-col md:w-1/2 md:pl-12'>
@@ -57,13 +56,7 @@ APIs, Solidity, and Web3.js.
                     <img src={postgresql} alt="" className='rounded-full w-24 h-24 object-cover'/>
                 </li>
                 <li className='lg:w-1/3 mb-4 w-1/2'>
-                    <img src={solidity} alt="" className='rounded-full w-24 h-24 object-cover'/>
-                </li>
-                <li className='lg:w-1/3 mb-4 w-1/2'>
                     <img src={typescript} alt="" className='rounded-full w-24 h-24 object-cover'/>
-                </li>
-                <li className='lg:w-1/3 mb-4 w-1/2'>
-                    <img src={web3} alt="" className='rounded-full w-24 h-24 object-cover'/>
                 </li>
             </nav>
             </div>
