@@ -8,14 +8,17 @@ import image3 from '../../assets/image3.png'
 import image4 from '../../assets/image4.png'
 import image5 from '../../assets/image5.png'
 import image6 from '../../assets/image6.png'
+import image7 from '../../assets/image7.png'
 
 export default function Projects() {
     const listProjects = [
         {id:1, image:image, title:'ProsperMinds Limited - Online LMS', description:'An online Learning Management System.', link:'https://prospermindslive.com/'},
+        {id:2, image:image2, title: 'Beauty by Revere - Bath and Body care products', description: 'A shopping platform for bath essentials.', link:'https://www.beautybyrevere.com/'},
         {id:3, image:image3, title:'Zendawa Africa - E-commerce Store', description:'An e-commerce store for African products.', link:'https://staicy254.github.io/Zendawa_Africa/'},
         {id:4, image:image4, title:'Clario - Eye wear Shop', description:'A shop selling various eyewear.', link:'https://diligent-architecture-358933.framer.app/'},
         {id:5, image:image5, title:'Cucus Eatery - Restaurant Menu', description:'A restaurant menu.', link:'https://staicy254.github.io/Cucu-s_Eatery/'},
-        
+        {id:6, image:image6, title:'Sunrays Cosmetics', description: 'A cosmetics shop', link: 'https://sunrays.ke/?v=a2e1f137298d'},
+        {id:7, image:image7, title: 'Jipange Budget App', description: 'A budgeting site', link: 'https://staicy254.github.io/Jipange-Budget-App/'},
     ];
     
     const settings = {
