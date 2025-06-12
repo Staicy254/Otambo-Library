@@ -20,7 +20,7 @@ export default function Hero() {
                 mb-16 md:mb-0 items-center text-center relative'>
                     
                 <h1 className='title-font sm:text-4xl text-4xl mb-4 font-bold text-white'>Hello! I am Jean Otambo</h1>
-                <p className='mb-8 leading-relaxed'> Software Engineer | Front-End Development | Backend Development | Blockchain Development
+                <p className='mb-8 leading-relaxed'> Software Engineer | Front-End Development |
                 </p>
                 <div className='flex justify-center'>
                     <a href={CV} download> 

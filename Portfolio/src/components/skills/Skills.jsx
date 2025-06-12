@@ -11,6 +11,7 @@ import postgresql from '../../assets/postgresql.png'
 import typescript from '../../assets/typescript.png'
 
 
+
 export default function Skills() {
   return (
     <section id='skills' className='relative overflow-hidden flex flex-col text-white body-font'>
@@ -23,7 +24,7 @@ export default function Skills() {
                 <p data-aos='fade-right' data-aos-delay='500' className='leading-relaxed text-base'>
                 I excel in building responsive, user-focused
 solutions using HTML5, CSS3, JavaScript, Firebase, TypeScript, React,PostgreSQL, Vue.js, Node.js, Next.js, and,
-APIs.
+APIs. I am also experienced in Digital marjeting and working with CMS Platforms.
                 </p>
             </div>
             <div data-aos='fade-left' data-aos-delay='500' className='flex flex-col md:w-1/2 md:pl-12'>
