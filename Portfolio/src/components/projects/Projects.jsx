@@ -16,9 +16,9 @@ export default function Projects() {
         {id:2, image:image2, title: 'Beauty by Revere - Bath and Body care products', description: 'A shopping platform for bath essentials.', link:'https://www.beautybyrevere.com/'},
         {id:3, image:image3, title:'Zendawa Africa - E-commerce Store', description:'An e-commerce store for African products.', link:'https://staicy254.github.io/Zendawa_Africa/'},
         {id:4, image:image4, title:'Ameera Spa', description:'A spa for hair and body.', link:'https://ameerahspa.com/'},
-        {id:5, image:image5, title:'Cucus Eatery - Restaurant Menu', description:'A restaurant menu.', link:'https://staicy254.github.io/Cucu-s_Eatery/'},
+        {id:5, image:image5, title:'Neon Crypto Launch', description:'A crypto Landing page', link:'https://neon-crypto-launch.vercel.app/'},
         {id:6, image:image6, title:'Thrive Cosmetics', description: 'A spa,dental clinic, skin and wellness spa', link: 'https://thriveaesthetics.co.ke/'},
-        {id:7, image:image7, title: 'Jipange Budget App', description: 'A budgeting site', link: 'https://staicy254.github.io/Jipange-Budget-App/'},
+        {id:7, image:image7, title: 'Flawless Foundation Match', description: 'A foundation matching app using image analysis', link: 'https://flawless-foundation-match.vercel.app/'},
     ];
     
     const settings = {
