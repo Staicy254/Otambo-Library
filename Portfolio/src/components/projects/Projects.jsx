@@ -19,7 +19,10 @@ export default function Projects() {
         {id:5, image:image5, title:'Neon Crypto Launch', description:'A crypto Landing page', link:'https://neon-crypto-launch.vercel.app/'},
         {id:6, image:image6, title:'Thrive Cosmetics', description: 'A spa,dental clinic, skin and wellness spa', link: 'https://thriveaesthetics.co.ke/'},
         {id:7, image:image7, title: 'Flawless Foundation Match', description: 'A foundation matching app using image analysis', link: 'https://flawless-foundation-match.vercel.app/'},
+        {id:8, image:image8, title: 'Jewels Store', description: 'A jewellery store', link: 'https://honest-remember-136608.framer.app/'},
+        {id:9, image:image9, title: 'Pizza Frenzy', description: 'An online pizza shop.', link: 'https://many-stage-190224.framer.app/'},
     ];
+
     
     const settings = {
         dots: true,
