@@ -9,6 +9,8 @@ import image4 from '../../assets/image 4.png'
 import image5 from '../../assets/image5.png'
 import image6 from '../../assets/image 6.png'
 import image7 from '../../assets/image7.png'
+import image8 from '../../assets/image8.png'
+import image9 from '../../assets/image9.png'
 
 export default function Projects() {
     const listProjects = [
